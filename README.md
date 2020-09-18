@@ -1,6 +1,6 @@
 # Hi there 👋, Welcome to my GitHub.
 
-Check out my GitHub Pages site [Here](https://philipmurray.github.io/)
+Check out my personal site [philipmurray.github.io](https://philipmurray.github.io/)
 
 <!--
 **PhilipMurray/PhilipMurray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
