@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋, Welcome to my GitHub.
 
 Check out my GitHub Pages site [Here](https://philipmurray.github.io/)
 
