@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/PhilipMurray/PhilipMurray/blob/master/wave.gif" width="50px">, Welcome to my GitHub :milky_way:
+# Hi there <img src="https://github.com/PhilipMurray/PhilipMurray/blob/master/wave.gif" width="50px">, Welcome to my GitHub
 
 
 
