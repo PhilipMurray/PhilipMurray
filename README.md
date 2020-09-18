@@ -2,17 +2,13 @@
 
 Check out my personal site [philipmurray.github.io](https://philipmurray.github.io/)
 
-<!--
-**PhilipMurray/PhilipMurray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+![](https://img.shields.io/static/v1?label=%20&message=C%23&color=blue&style=flat-square&logo=C-Sharp)
+![](https://img.shields.io/static/v1?label=%20&message=HTML&color=blue&style=flat-square&logo=HTML5)
+![](https://img.shields.io/static/v1?label=%20&message=JavaScript&color=blue&style=flat-square&logo=JavaScript)
+![](https://img.shields.io/static/v1?label=%20&message=CSS&color=blue&style=flat-square&logo=CSS3)
+![](https://img.shields.io/static/v1?label=%20&message=MS%20SQL&color=blue&style=flat-square&logo=Microsoft-SQL-Server)
+![](https://img.shields.io/static/v1?label=%20&message=RESTful%20API&color=blue&style=flat-square&logo=Visual-Studio)
+![](https://img.shields.io/static/v1?label=%20&message=.NET&color=blue&style=flat-square&logo=Visual-Studio)
+![](https://img.shields.io/static/v1?label=%20&message=.NET%20Core&color=blue&style=flat-square&logo=Visual-Studio)
+![](https://img.shields.io/static/v1?label=%20&message=Entity%20Framework&color=blue&style=flat-square&logo=Visual-Studio)
