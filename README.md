@@ -1,7 +1,6 @@
 # Hi there <img src="https://github.com/PhilipMurray/PhilipMurray/blob/master/wave.gif" width="50px">
 
-<center>Welcome to my GitHub</center>
-
+Welcome to my GitHub
 Check out my personal site [philipmurray.github.io](https://philipmurray.github.io/)
 
 ## 🔧 Technologies & Tools
