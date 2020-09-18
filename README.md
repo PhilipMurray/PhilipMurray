@@ -2,10 +2,10 @@
 <h1 align=center>Hi there <img src="https://github.com/PhilipMurray/PhilipMurray/blob/master/wave.gif" width="50px"> Welcome to my GitHub</h1>
 
 
-Check out my personal site [philipmurray.github.io](https://philipmurray.github.io/)
-
+[![](https://img.shields.io/static/v1?label=Web%20Site&message=philipmurray.github.io&color=blue&style=flat-square&logo=HTML5)][1]
 [![](https://img.shields.io/static/v1?label=LinkedIn&message=Philip%20Murray&color=blue&style=flat-square&logo=LinkedIn)][2]
 
+[1]: https://philipmurray.github.io/
 [2]: https://www.linkedin.com/in/philipsmurray/
 
 ## 🔧 Technologies & Tools
