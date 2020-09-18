@@ -1,4 +1,4 @@
-# Hi there 👋, Welcome to my GitHub :octocat:
+# Hi there 👋, Welcome to my GitHub :milky_way:
 
 Check out my personal site [philipmurray.github.io](https://philipmurray.github.io/)
 
