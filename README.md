@@ -1,7 +1,12 @@
 
 <h1 align=center>Hi there <img src="https://github.com/PhilipMurray/PhilipMurray/blob/master/wave.gif" width="50px"> Welcome to my GitHub</h1>
 
+
 Check out my personal site [philipmurray.github.io](https://philipmurray.github.io/)
+
+[![](https://img.shields.io/static/v1?label=LinkedIn&message=Philip%20Murray&color=blue&style=flat-square&logo=LinkedIn)][2]
+
+[2]: https://www.linkedin.com/in/philipsmurray/
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/static/v1?label=Code&message=C%23&color=blue&style=flat-square&logo=C-Sharp)
