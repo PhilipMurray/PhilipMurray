@@ -6,7 +6,7 @@
 
 [![](https://img.shields.io/static/v1?label=LinkedIn&message=Philip%20Murray&color=blue&style=flat-square&logo=LinkedIn)][2]
 
-## 🔧 Technologies & Tools
+## 🔧 Tools & Technologies
 ![](https://img.shields.io/static/v1?label=Code&message=C%23&color=blue&style=flat-square&logo=C-Sharp)
 ![](https://img.shields.io/static/v1?label=Code&message=HTML&color=blue&style=flat-square&logo=HTML5)
 ![](https://img.shields.io/static/v1?label=Code&message=JavaScript&color=blue&style=flat-square&logo=JavaScript)
