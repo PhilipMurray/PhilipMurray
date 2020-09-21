@@ -1,5 +1,5 @@
 
-<h1 align=center>Hi there <img src="https://github.com/PhilipMurray/PhilipMurray/blob/master/wave.gif" width="50px"> Welcome to my GitHub</h1>
+<h1 align=center>Hi there <img src="https://github.com/PhilipMurray/PhilipMurray/blob/master/wave.gif" width="50px"><br/>Welcome to my GitHub</h1>
 
 ## :speech_balloon: Social
 [![](https://img.shields.io/static/v1?label=Web%20Site&message=philipmurray.github.io&color=blue&style=flat-square&logo=HTML5)][1]
