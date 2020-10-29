@@ -6,7 +6,7 @@
 
 [![](https://img.shields.io/static/v1?label=LinkedIn&message=Philip%20Murray&color=blue&style=flat-square&logo=LinkedIn)][2]
 
-[![](https://img.shields.io/static/v1?label=Microsoft&message=Philip%20Murray&color=blue&style=flat-square&logo=Microsoft-Azure)][2]
+[![](https://img.shields.io/static/v1?label=Microsoft&message=Philip%20Murray&color=blue&style=flat-square&logo=Microsoft-Azure)][3]
 
 ## 🔧 Tools & Technologies
 ![](https://img.shields.io/static/v1?label=C-Sharp&message=%20&color=black&labelColor=black&style=flat-square&logo=C-Sharp)
@@ -25,3 +25,4 @@
 <!---Links: -->
 [1]: https://philipmurray.github.io/
 [2]: https://www.linkedin.com/in/philipsmurray/
+[3]: https://docs.microsoft.com/en-us/users/philipmurray-1056/
