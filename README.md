@@ -22,6 +22,8 @@
 ![](https://img.shields.io/static/v1?label=.NET%20Core&message=%20&color=black&labelColor=black&style=flat-square&logo=Visual-Studio)
 ![](https://img.shields.io/static/v1?label=Entity%20Framework&message=%20&color=black&labelColor=black&style=flat-square&logo=Visual-Studio)
 
+---
+
 <!---Links: -->
 [1]: https://philipmurray.github.io/
 [2]: https://www.linkedin.com/in/philipsmurray/
