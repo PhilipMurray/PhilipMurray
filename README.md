@@ -1,29 +1,27 @@
 
-<h1 align=center><br/>Welcome to my GitHub</h1>
+<h1 align=center><br/>Welcome to my GitHub <img src="https://visitor-badge.laobi.icu/badge?page_id=PhilipMurray" title="Vistors" alt="Vistors" />&nbsp;</h1>
 
-### Social
-[![](https://img.shields.io/static/v1?label=Web%20Site&message=philipmurray.github.io&color=blue&style=flat-square&logo=HTML5)][1]
-[![](https://img.shields.io/static/v1?label=LinkedIn&message=Philip%20Murray&color=blue&style=flat-square&logo=LinkedIn)][2]
-[![](https://img.shields.io/static/v1?label=Microsoft&message=Philip%20Murray&color=blue&style=flat-square&logo=Microsoft-Azure)][3]
+### :man_technologist: &nbsp;About Me :
 
+I am a Full Stack Developer from Ireland.
+
+- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🌱 Exploring Technical Content Writing and blogs to expand my learning.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Philip%20Murray-blue?style=flat&logo=Linkedin&logoColor=white)][1]
+---
 
 ### Tools & Technologies
-![](https://img.shields.io/static/v1?label=%20&message=C-Sharp&color=lightgrey&labelColor=grey&style=flat-square&logo=C-Sharp)
-![](https://img.shields.io/static/v1?label=HTML5&message=%20&color=blue&labelColor=blue&style=flat-square&logo=HTML5)
-![](https://img.shields.io/static/v1?label=JavaScript&message=%20&color=blue&labelColor=blue&style=flat-square&logo=JavaScript)
-![](https://img.shields.io/static/v1?label=CSS3&message=%20&color=blue&labelColor=blue&style=flat-square&logo=CSS3)
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft-SQL-Server" alt="Microsoft-SQL-Server" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="NET%20Core" alt="NET%20Core" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 
-![](https://img.shields.io/static/v1?label=Microsoft-SQL-Server&message=%20&color=blue&labelColor=blue&style=flat-square&logo=Microsoft-SQL-Server)
-![](https://img.shields.io/static/v1?label=Postman&message=%20&color=blue&labelColor=blue&style=flat-square&logo=Postman)
-
-![](https://img.shields.io/static/v1?label=RESTful%20API&message=%20&color=blue&labelColor=blue&style=flat-square&logo=Visual-Studio)
-![](https://img.shields.io/static/v1?label=.NET&message=%20&color=blue&labelColor=blue&style=flat-square&logo=Visual-Studio)
-![](https://img.shields.io/static/v1?label=.NET%20Core&message=%20&color=blue&labelColor=blue&style=flat-square&logo=Visual-Studio)
-![](https://img.shields.io/static/v1?label=Entity%20Framework&message=%20&color=blue&labelColor=blue&style=flat-square&logo=Visual-Studio)
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=PhilipMurray)
 ---
 <!---Links:-->
-[1]: https://philipmurray.github.io/
-[2]: https://www.linkedin.com/in/philipsmurray/
-[3]: https://docs.microsoft.com/en-us/users/philipmurray-1056/
+[1]: https://www.linkedin.com/in/philipsmurray/
