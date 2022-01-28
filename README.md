@@ -5,12 +5,10 @@
 </h1>
 
 ### About Me: 
-
-I am a Full Stack Developer from Ireland.
-
-- 🔭 I’m working as a Sr. Software Developer contributing to frontend and backend solutions for building web applications.
-- 🌱 Exploring Technical Content Writing and blogs to expand my learning.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Philip%20Murray-blue?style=flat&logo=Linkedin&logoColor=white)][1]
+- 👨 I am a Full Stack Developer from Ireland.
+- :octocat: I’m working as a Sr. Software Developer contributing to frontend and backend solutions for building web applications.
+- 👀 Exploring Technical Content Writing and blogs to expand my learning.
+- 📧 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Philip%20Murray-blue?style=flat&logo=Linkedin&logoColor=white)][1]
 
 ### Tools & Technologies:
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
