@@ -1,7 +1,8 @@
 
 <h1 align=center>
   <p><img src="https://avatars.githubusercontent.com/u/5538058?s=400&u=ede746334d5a3b32fddc134797e1c7ccc9d4e5b1&v=4" title="Me" alt="Me" width="150" height="150"/></p>
-  <p>Welcome to my GitHub  <img src="https://visitor-badge.laobi.icu/badge?page_id=PhilipMurray" title="Vistors" alt="Vistors" />&nbsp;</p>
+  <p>Welcome to my GitHub</p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PhilipMurray" title="Vistors" alt="Vistors" />&nbsp;
 </h1>
 
 ### About Me: 
