@@ -24,11 +24,15 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 
 ### Pluralsight Badges:
-[<img src="https://pluralsight2.imgix.net/achievements/assets/badges/content-completion/courses/development/beginner/enabled-light.f229e9.png" title="Become a Full-stack .NET Developer" alt="Become a Full-stack .NET Developer" width="40" height="40"/>](https://app.pluralsight.com/achievements/share/dca96335-cebb-41e6-9150-5daf1ea92197)&nbsp;&nbsp;
-[<img src="https://pluralsight2.imgix.net/achievements/assets/badges/solar-explorer/enabled-light.58e432.png" title="Solar Explorer" alt="Solar Explorer" width="40" height="40"/>](https://app.pluralsight.com/achievements/share/9effe35a-edd2-46b5-b21c-cb5a82e32298)&nbsp;&nbsp;
-[<img src="https://pluralsight2.imgix.net/achievements/assets/badges/content-completion/courses/development/intermediate/enabled-light.a66df9.png" title="Building React Apps with TypeScript" alt="Building React Apps with TypeScript" width="40" height="40"/>](https://app.pluralsight.com/achievements/share/dde2c21c-d895-48e3-881b-844121141c04)&nbsp;&nbsp;
-[<img src="https://pluralsight2.imgix.net/achievements/assets/badges/2022/viewtime-5-min-2022/enabled-light.bd9dd1.png" title="Fast Starter" alt="Fast Starter" width="40" height="40"/>](https://app.pluralsight.com/achievements/share/606143a4-53d6-4992-9cfa-f0b23dfd7e14)&nbsp;&nbsp;
+[<img src="https://pluralsight2.imgix.net/achievements/assets/badges/content-completion/courses/development/beginner/enabled-light.f229e9.png" title="Become a Full-stack .NET Developer" alt="Become a Full-stack .NET Developer" width="40" height="40"/>][2 .NET Developer]&nbsp;&nbsp;
+[<img src="https://pluralsight2.imgix.net/achievements/assets/badges/solar-explorer/enabled-light.58e432.png" title="Solar Explorer" alt="Solar Explorer" width="40" height="40"/>][3 Solar Explorer]&nbsp;&nbsp;
+[<img src="https://pluralsight2.imgix.net/achievements/assets/badges/content-completion/courses/development/intermediate/enabled-light.a66df9.png" title="Building React Apps with TypeScript" alt="Building React Apps with TypeScript" width="40" height="40"/>][4 Building React Apps with TypeScript]&nbsp;&nbsp;
+[<img src="https://pluralsight2.imgix.net/achievements/assets/badges/2022/viewtime-5-min-2022/enabled-light.bd9dd1.png" title="Fast Starter" alt="Fast Starter" width="40" height="40"/>][5 Fast Starter]&nbsp;&nbsp;
 
 ---
 <!---Links:-->
 [1]: https://www.linkedin.com/in/philipsmurray/
+[2 .NET Developer]: https://app.pluralsight.com/achievements/share/dca96335-cebb-41e6-9150-5daf1ea92197
+[3 Solar Explorer]: https://app.pluralsight.com/achievements/share/9effe35a-edd2-46b5-b21c-cb5a82e32298
+[4 Building React Apps with TypeScript]: https://app.pluralsight.com/achievements/share/dde2c21c-d895-48e3-881b-844121141c04
+[5 Fast Starter]: https://app.pluralsight.com/achievements/share/606143a4-53d6-4992-9cfa-f0b23dfd7e14
