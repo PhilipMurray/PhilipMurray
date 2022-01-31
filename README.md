@@ -37,3 +37,5 @@
 [3 Solar Explorer]: https://app.pluralsight.com/achievements/share/9effe35a-edd2-46b5-b21c-cb5a82e32298
 [4 Building React Apps with TypeScript]: https://app.pluralsight.com/achievements/share/dde2c21c-d895-48e3-881b-844121141c04
 [5 Fast Starter]: https://app.pluralsight.com/achievements/share/606143a4-53d6-4992-9cfa-f0b23dfd7e14
+[pluralsight handle 1]: d135e338-cd02-4027-b38a-9a93a9648345
+[pluralsight handle 2]: 0ba079ad-d0ea-46a6-84e1-f15538a9fe90
