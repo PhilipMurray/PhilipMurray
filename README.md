@@ -8,7 +8,8 @@
 ### About Me: 
 - 💻 I am a Full Stack Developer from Ireland.
 - :octocat: I’m working as a Sr. Software Developer contributing to frontend and backend solutions for building web applications.
-- 👀 Exploring Technical Content Writing and blogs to expand my learning.
+- 👀 Exploring Technical Content Writing and blogs.
+- 🎓 Expanding my learning using Pluralsight courses.
 - 📧 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Philip%20Murray-blue?style=flat&logo=Linkedin&logoColor=white)][1]
 
 ### Tools & Technologies:
