@@ -1,7 +1,6 @@
 
 <h1 align=center>
   <img src="./cover-image.png" title="Cover" alt="Cover-Image"/>
-  <p>Welcome to my GitHub</p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=PhilipMurray" title="Vistors" alt="Vistors" />&nbsp;
 </h1>
 
