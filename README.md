@@ -1,7 +1,6 @@
 
 <h1 align=center>
   <img src="./cover-image.png" title="Cover" alt="Cover-Image"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PhilipMurray" title="Vistors" alt="Vistors" />&nbsp;
 </h1>
 
 ### About Me: 
@@ -9,19 +8,10 @@
 - :octocat: I’m working as a Sr. Software Developer contributing to frontend and backend solutions for building web applications.
 - 👀 Exploring Technical Content Writing and blogs.
 - 🎓 Expanding my learning using Pluralsight courses.
-- 📧 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Philip%20Murray-blue?style=flat&logo=Linkedin&logoColor=white)][1]
+- 📧 How to reach me:&nbsp;[![Linkedin Badge](https://img.shields.io/badge/Philip%20Murray-blue?style=flat&logo=Linkedin&logoColor=white)][1]
 
 ### Tools & Technologies:
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft-SQL-Server" alt="Microsoft-SQL-Server" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="NET%20Core" alt="NET%20Core" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=react,redux,js,html,css,cs,dotnet)](https://skillicons.dev)
 
 ### Pluralsight Badges:
 [<img src="https://pluralsight2.imgix.net/achievements/assets/badges/content-completion/courses/development/beginner/enabled-light.f229e9.png" title="Become a Full-stack .NET Developer" alt="Become a Full-stack .NET Developer" width="40" height="40"/>][2 .NET Developer]&nbsp;&nbsp;
