@@ -1,8 +1,3 @@
-
-<h1 align=center>
-  <img src="./cover-image.png" title="Cover" alt="Cover-Image"/>
-</h1>
-
 ### About Me: 
 - 💻 I am a Full Stack Developer from Ireland.
 - :octocat: I’m working as a Sr. Software Developer contributing to frontend and backend solutions for building web applications.
